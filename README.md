@@ -71,23 +71,3 @@ The agent will:
 2. Analyze skills, gaps, and recommendations.
 3. Send a message or an email with insights.
 
----
-
-## 🧪 Testing
-
-Use sample resumes and track results in your scenario logs in Make.com.
-
----
-
-## 💡 Contribution
-
-This project is open to enhancements — drop ideas, issues, or pull requests!
-
----
-
-## 📄 License
-
-Distributed under the MIT License.
-
----
-
